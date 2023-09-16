@@ -1,3 +1,11 @@
 # movies-explorer-api
 
-backend diploma
+## Использованные технологии
+ - Node.js
+ - MongoDB 
+ - Nginx
+ - API
+
+## Demo
+
+https://api.diploma.kattrin.nomoredomainsrocks.ru
